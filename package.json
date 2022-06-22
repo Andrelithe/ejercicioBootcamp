@@ -1,0 +1,15 @@
+{
+  "name": "primer-proyecto",
+  "version": "1.0.0",
+  "description": "Primer Ejercicio con Node",
+  "main": "index.js",
+  "scripts": {
+    "saludar":"node hola.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FirstProject"
+  ],
+  "author": "Andrelele",
+  "license": "ISC"
+}
